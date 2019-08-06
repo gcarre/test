@@ -1,0 +1,12 @@
+version: 3
+groups:
+  design:
+    reviewers:
+      # the order matters!
+      users:
+      - gcarre
+    reviews:
+      request: 1
+      required: 1
+      request_order: given
+      
